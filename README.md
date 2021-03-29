@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JGourdeau
 - 👀 I’m interested in ... bioinformatics, public health and genomics
-- 🌱 I’m currently ... learning everything I can!
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning and working in ... primarily python and R 
 
 <!---
 JGourdeau/JGourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
