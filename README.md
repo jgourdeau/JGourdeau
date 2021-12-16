@@ -1,4 +1,5 @@
 - 👋  Hi, I’m @JGourdeau
+- 📚  Dartmouth College Biology 
 - 🧬  I’m interested in: Bioinformatics, Public Health and Genomics 
 - 🌱  I’m currently learning: Python and R  
 
