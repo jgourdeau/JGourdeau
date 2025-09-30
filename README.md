@@ -1,7 +1,4 @@
-- 👋  Hi, I’m @JGourdeau
-- 📚  Dartmouth College Biology 
-- 🧬  I’m interested in: Bioinformatics, Public Health and Genomics 
-- 🌱  I’m currently learning: Python and R  
+Im JGourdeau. Currently a PhD Student at the University of Washington School of Medicine
 
 <!---
 JGourdeau/JGourdeau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
